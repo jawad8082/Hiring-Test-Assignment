@@ -1,0 +1,60 @@
+{
+    "cards": [
+      {
+        "id": 1,
+        "image": "https://via.placeholder.com/350x200",
+        "checkedIn": true,
+        "name": "Trip to Eiffel Tower",
+        "date": "12th Nov, 2022",
+        "owner": {
+          "image": "https://placehold.co/100x100",
+          "name": "John Doe"
+        }
+      },
+      {
+        "id": 2,
+        "image": "https://via.placeholder.com/350x200",
+        "checkedIn": true,
+        "name": "Visit to the Colosseum",
+        "date": "5th Dec, 2022",
+        "owner": {
+          "image": "https://placehold.co/100x100",
+          "name": "Jane Smith"
+        }
+      },
+      {
+        "id": 3,
+        "image": "https://via.placeholder.com/350x200",
+        "checkedIn": true,
+        "name": "Exploring the Great Wall",
+        "date": "20th Jan, 2023",
+        "owner": {
+          "image": "https://placehold.co/100x100",
+          "name": "Alice Johnson"
+        }
+      },
+      {
+        "id": 4,
+        "image": "https://via.placeholder.com/350x200",
+        "checkedIn": true,
+        "name": "Safari in Kenya",
+        "date": "15th Feb, 2023",
+        "owner": {
+          "image": "https://placehold.co/100x100",
+          "name": "Bob Brown"
+        }
+      },
+      {
+        "id": 5,
+        "image": "https://via.placeholder.com/350x200",
+        "checkedIn": true,
+        "name": "Cruise in the Caribbean",
+        "date": "10th Mar, 2023",
+        "owner": {
+          "image": "https://placehold.co/100x100",
+          "name": "Charlie Davis"
+        }
+      }
+    ]
+  }
+  
